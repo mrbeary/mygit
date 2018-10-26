@@ -4,3 +4,4 @@ Bye!
 
 
 this is the second time
+Today is Friday,October 26th.
